@@ -1,13 +1,9 @@
-# CALCULAR RENDA PASSIVA
+# CALCULAR DESCONTO DE JUROS
 
-## Calculadora Multi Cálculos para alcançar uma renda passiva
+## Calculadora para calcular o desconto dos juros de uma parcela de um financiamento
 
 - Calcula:
-  - Prazo
-  - Investimento Inicial
-  - Investimento Recorrente
-  - Taxa
-  - Renda
+  - Desconto dos juros de uma parcela de um financiamento
 
 Seja um patrocinador e apoie meu trabalho:
 https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=2c938084882ea1dd0188305e8e0e00bc
